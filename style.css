@@ -1,0 +1,13 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    background: #44cceb;
+    font-size: 20px;
+}
+.header_div{
+    background: white;
+    color: tomato;
+}
+
+.img-responsive{
+    width: 300px;
+}
